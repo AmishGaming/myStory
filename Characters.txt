@@ -5,3 +5,4 @@ Characters
 3)Lion
 4)Donkey
 5)Tiger
+6)New Character
